@@ -11,7 +11,7 @@ Session System Has 3 Tools.:
 | Functions
 |-----------|
 | PsTools (By SysInternals)
-| Nircmd
+| Nircmd (By Nirsoft)
 | Gecho (By Batch-Man)
 
 ## Functions
