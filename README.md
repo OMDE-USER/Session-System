@@ -26,6 +26,13 @@ Session System has the Functions
 | Works in Accounts Login ✅
 | It's more Powerfull than Administrator ✅
 
+
+# How i Execute?
+1. Go to the [Releases](https://github.com/OMDE-USER/Session-System/releases/tag/Batch).
+2. Extract the Files.
+3. Find the SS.bat on the Files. It's not the ST.bat
+
+
 # ⚠️WARNING⚠️
 Session System is too OverPowered and it can Destroy Windows with a Wrong Command.
 It's Recommed to Use Session System as Last Resort.
